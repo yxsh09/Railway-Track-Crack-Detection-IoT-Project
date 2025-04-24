@@ -1,4 +1,4 @@
- ## Project Name: Automatic Railway Track Crack Detection:
+ ## Project Name: Automatic Railway Track Crack Detectio:
  This is the IoT project. The project system is suitable for railways transportation to identify the cracks in the railway tracks earlier and prevent the accidents. In this project we introduced the integration of ultrasonic sonar sensor and GSM Module to detect the railway track crack problem. This project consists of GPS module, GSM modem for application of communication purpose, ultrasonic sensor crack detection present in the railway track. The GPS module and GSM modem help us to find and sending railway geometric parameter of crack detection to nearest railway station. The importance of this project is applicable both day and night time detection purpose.
  ### Components:-
    1.	Arduino
